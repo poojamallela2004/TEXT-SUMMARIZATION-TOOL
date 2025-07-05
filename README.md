@@ -34,3 +34,5 @@ Furthermore, the tool can be extended into a web-based interface using framework
 
 In conclusion, a Text Summarization Tool is a powerful and efficient NLP application that automates the task of condensing textual information. It saves time, improves productivity, and aids in faster decision-making by highlighting the most critical content from large texts. As the demand for information processing grows across industries, such intelligent summarization tools are becoming increasingly essential in modern digital workflows.
 
+#output
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/24ba2d15-bb42-4c5d-8ab4-c1632b5249bd" />
